@@ -4,6 +4,8 @@
 
 **Airport Management System** - это консольное приложение для управления информацией об аэропортах, самолётах, воротах и их статусах. Система предоставляет полный функционал CRUD (Create, Read, Update, Delete) для работы с базой данных SQL Server через микро-ORM Dapper.
 
+> 📄 **Полная документация по юнит-тестам:** [UNIT_TESTS_DOCUMENTATION.md](UNIT_TESTS_DOCUMENTATION.md)
+
 ---
 
 ## 📋 Содержание
@@ -106,13 +108,13 @@ AirportTestApp/
 │   ├── GateRepository.cs            # Репозиторий ворот
 │   └── StatusRepository.cs          # Репозиторий статусов
 │
-├── Tests/                           # Юнит-тесты
+├── Tests/                           # Юнит-тесты (6 тестов)
 │   └── AirplaneRepositoryTests.cs   # Тесты для AirplaneRepository
 │
 ├── Program.cs                       # Главный файл приложения
 ├── AirportTestApp.csproj            # Файл проекта
 ├── README.md                        # Документация (этот файл)
-└── UNIT_TESTS_DOCUMENTATION.md      # Документация по юнит-тестам
+└── UNIT_TESTS_DOCUMENTATION.md      # 📄 Документация по юнит-тестам ⭐
 ```
 
 ---
