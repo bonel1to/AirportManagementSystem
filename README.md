@@ -4,8 +4,10 @@
 
 **Airport Management System** - это консольное приложение для управления информацией об аэропортах, самолётах, воротах и их статусах. Система предоставляет полный функционал CRUD (Create, Read, Update, Delete) для работы с базой данных SQL Server через микро-ORM Dapper.
 
-> 📄 **Документация проекта:** https://docs.google.com/document/d/1Gk4seRoUHTjwnR6rvstxbJr3celgYPDZKCYIHtKOLj4/edit?usp=sharingэ
+> 📄 **Документация проекта:** https://docs.google.com/document/d/1Gk4seRoUHTjwnR6rvstxbJr3celgYPDZKCYIHtKOLj4/edit?usp=sharing
+
 > 📄 **Презентация проекта:** https://docs.google.com/presentation/d/1VdjHejZraHL-8JeT8WGmFwiuKLvssXMwv-C6qmRhcTo/edit?usp=sharing
+
 > 📄 **Полная документация по юнит-тестам:** [UNIT_TESTS_DOCUMENTATION.md](UNIT_TESTS_DOCUMENTATION.md)
 
 ---
