@@ -7,7 +7,7 @@
 
 > 📄 [**Документация проекта**](https://docs.google.com/document/d/1Gk4seRoUHTjwnR6rvstxbJr3celgYPDZKCYIHtKOLj4/edit?usp=sharing)
 
-> 📄 [**Полная документация по юнит-тестам**] ([UNIT_TESTS_DOCUMENTATION.md](UNIT_TESTS_DOCUMENTATION.md)
+> 📄 [**Полная документация по юнит-тестам**](https://github.com/bonel1to/AirportManagementSystem/blob/main/UNIT_TESTS_DOCUMENTATION.md)
 
 ---
 
